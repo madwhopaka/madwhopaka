@@ -32,7 +32,8 @@
     ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
     ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
   
-<br>   
+<br>  
+  
 - **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,6 +59,21 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
 <br>
+  
+
+- **Projects**:
+
+    Swagg - An ecommerce website
+    https://swagg-kappa.vercel.app/
+  
+    Hyebye - Private Messaging Chatroom
+    https://hye-bye-client.vercel.app/
+  
+    NewsRoll - A flutter news application 
+    https://github.com/madwhopaka/NewsRoll/releases/tag/v2.0
+    
+<br>
+
 
   
 </p>
